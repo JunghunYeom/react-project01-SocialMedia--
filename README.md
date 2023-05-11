@@ -14,5 +14,5 @@
   <h2> ⚒ </h2>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <br/><br/><br/>
-  React 공부를 위해 <a href="[https://www.youtube.com/watch?v=gpqoZQ8GNK8](https://www.youtube.com/watch?v=WWhgssiyfwY&list=PLWEkllwWIwsC_ESSo1PR3ujhhF4vPvdRE&index=3)">Youtube 강의</a>를 듣고 작성한 코드입니다.
+  React 공부를 위해 <a href="https://www.youtube.com/watch?v=WWhgssiyfwY&list=PLWEkllwWIwsC_ESSo1PR3ujhhF4vPvdRE&index=4">Youtube 강의</a>를 듣고 작성한 코드입니다.
 </div>
